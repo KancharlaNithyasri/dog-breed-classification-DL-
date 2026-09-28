@@ -82,9 +82,4 @@ The notebook can be opened and executed using Google Colab.
 
 The Stanford Dogs dataset needs to be downloaded separately because the dataset files are not included in this repository.
 
-## 👩‍💻 Author
 
-**Kancharla Nithyasri**
-
-B.Tech Computer Science Engineering
-Rajiv Gandhi University of Knowledge Technologies, Basar
